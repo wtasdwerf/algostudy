@@ -3,8 +3,7 @@
 <span style = "color:orange">
 
 # 문제 제목
-</span>
-<br>
+
 
 > 출처 : 링크 입력
 
