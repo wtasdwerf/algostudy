@@ -1,3 +1,4 @@
+```python
 import sys
 input = sys.stdin.readline
 arr, map = [],{}
@@ -15,3 +16,4 @@ for x in arr:
     ans += idx * x
     idx -= 1
 print(ans)
+```
